@@ -110,4 +110,4 @@ exclude:
 
 excerpt_separator: ---
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-merlot
